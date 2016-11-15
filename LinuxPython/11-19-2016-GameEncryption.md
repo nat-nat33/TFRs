@@ -18,7 +18,7 @@
 
 ## Example function call
 
-`changeChar('John is the coolest teacher ever', 'e', 'a')` will return  `""`
+`changeChar('John is the coolest teacher ever', 'o', 'e')` will return  `"Jehn is the ceelest teacher ever"`
 
 ##Important Hints
 
