@@ -8,7 +8,7 @@ Wyatt, JD, Lindsay, Micah, and their friend Bob go on a camping trip. In a rush 
 
 Create a webpage, which includes an `index.html`, a `styles.css`, and an `app.js` file. This webpage must include:
 
-1. The `index.html` must constain one photo of camping and a **button**.  
+1. The `index.html` must constain one photo of camping, a clickable **button** and an empty `div` with an id.   
 
 2. The `app.js` includes a variable, `myBag`, which is an array containing several items, some good for camping, others not so much. 
 
