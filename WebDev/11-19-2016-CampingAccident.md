@@ -16,6 +16,9 @@ Create a webpage, which includes an `index.html`, a `styles.css`, and an `app.js
 
 4. The styles.css needs to have some basic CSS to color the background and change the text size. 
 
+###What we want to see
+
+A cool webpage with a picture of a camping scene, with a buttoon on the page, that's easily clickable. When we click the button, a line of text should be displayed telling us what items in the bag that Wyatt, JD, Lindsay and Micah should ditch. 
 
 **Example Webpage**
 
