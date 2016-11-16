@@ -22,8 +22,11 @@ Your function sould return a single string, `lineOfText` with all instances of `
 
 ## Example function call
 
-`changeChar('John is the coolest teacher ever', 'o', 'e')` will return  `"Jehn is the ceelest teacher ever"`
+`changeChar('Irene is the coolest teacher ever', 'e', 'o')` will return  `"Irono is tho coolost toachor ovor"`
 
-##Important Hints
+## Important Hints
 
-
+- Strings have indices too, not just lists
+- You can slice both strings and lists, and a quick way of slicing to either end of a list/string is only having the colon:
+  - If you want to slice to the end of the list, instead of [5:len(list)] you can use [5:]
+  - If you want to slice to the beginning of the list, instead of [0:5] you can use [:5]
