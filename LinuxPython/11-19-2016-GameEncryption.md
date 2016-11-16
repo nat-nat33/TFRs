@@ -11,7 +11,9 @@ Help Brooks and Tristan write a program to encrypt the valuable Fallout 5 files 
 ## Parameters
 
 `lineOfText` - the line of text which you want to have letters replace in 
+
 `charA` - the character you want to be replaced
+
 `charB` - the character you want `charA` to be replaced with
 
 ## Return Value
