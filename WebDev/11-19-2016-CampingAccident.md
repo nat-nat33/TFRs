@@ -10,7 +10,7 @@ Create a webpage, which includes an `index.html`, a `styles.css`, and an `app.js
 
 1. The `index.html` must constain one photo of camping and a **button**.  
 
-2. The `app.js` includes a variable, `myBag`, whcih is an array containing several items, some good for camping, others not so much. 
+2. The `app.js` includes a variable, `myBag`, which is an array containing several items, some good for camping, others not so much. 
 
 3. When the button s clicked, a function, `campingAccident` will run. `campingAccident` must access the items in `myBag` and uses the **innerHTML** DOM method to display a line of text on the page that states which items Wyatt, JD, Micah, and Lindsay need to ditch in order to escape quickly. 
 
