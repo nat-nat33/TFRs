@@ -2,7 +2,7 @@
 
 ###The Problem
 
-Wyatt, JD, Lindsay, Micah, and their friend Bob go on a camping trip. In a rush to go on their fun adventure, the group packed carelessly, and brought on a ton of useless items. This backfires terribly when Bob gets mauled by a bear during a hike. At this point, Wyatt, JD, Lindsay, and Micah realize that they brought the wrong map, and are actually in a dangerous wild bear natural reserve. They must empty their bags of the useless items in order to escape as quickly as possible!  
+Wyatt, JD, Lindsay, Micah, and their friend Bob go on a camping trip. In a rush to go on their fun adventure, the group packed carelessly, and brought on a ton of useless items. This backfires terribly when Bob gets mauled by a bear during a hike. At this point, Wyatt, JD, Lindsay, and Micah realize that they brought the wrong map, and are actually in dangerous territory filled with wild bears. They must empty their bags of the useless items in order to escape as quickly as possible and survive!  
 
 ###Your Mission
 
