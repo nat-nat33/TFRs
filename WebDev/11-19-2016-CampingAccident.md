@@ -15,9 +15,9 @@ Create a web app, which includes the following three files:
 
 2. The `app.js` includes a variable, `myBag`, which is an array containing several items, some good for camping, others not so much.
 
-3. When the button s clicked, a function, `campingAccident` will run. `campingAccident` must access the items in `myBag` and uses the **getElementById** and **innerHTML** DOM method to display a line of text on the page that states which items Wyatt, JD, Micah, and Lindsay need to ditch in order to escape quickly.
+3. When the button is clicked, a function, `campingAccident` will run. `campingAccident` must access the items in `myBag` and uses the **getElementById** and **innerHTML** DOM method to display a line of text on the page that states which items Wyatt, JD, Micah, and Lindsay need to ditch in order to escape quickly!
 
-4. The styles.css needs to have some basic CSS to color the background and change the text size.
+4. The `styles.css` should include some basic CSS to color the background and change the text size.
 
 ###What we want to see
 
