@@ -22,7 +22,7 @@ The function returns a single string, `lineOfText` with all instances of `charA`
 
 ## Example function call
 
-`changeChar('The Jr DevLeague Academy is awesome!', 'e', 'o')` will return  `"Tho Jr DovLoaguo Acadomy is awosomo"`
+`changeChar('The Jr DevLeague Academy is awesome!!', 'e', 'o')` will return  `"Tho Jr DovLoaguo Acadomy is awosomo"`
 
 ## Important Hints
 
