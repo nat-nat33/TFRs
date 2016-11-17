@@ -2,31 +2,29 @@
 
 ## Spectacularly well-written plotline
 
-Brooks is the lead programmer for Fallout 5. He is obviously a very careful person, because people are constantly trying to get information out of him about the game, one way or the other. Brooks gets word that an evil malicious hacker by the name of "Crsn" will be out to steal all of his data and shut down all the servers the next day. Brooks calls up his friend, Tristan, the lead programmer of Persona 6, who also happens to be a top hacker, to encrypt his data. 
+Brooks, a lead programmer at Fallout 5, gets word that an evil malicious hacker named "Crsn" is attempting to steal all the data and shut down all their servers. Brooks calls up his friend, Tristan, a top hacker who happens to be a lead programmer at Persona 6 to encrypt his data.
 
-## Your Mission 
+## Your Mission
 
-Help Brooks and Tristan write a program to encrypt the valuable Fallout 5 files and protect them from Crsn. Write a function called `changeChar`, which will take in three parameters. The first will be a given line of text. The second is the letter to be replaced. The third parameter will be the letter replacing it. `changeChar` should replace all instances of a given letter with another letter in a string recursively. 
+Help Brooks and Tristan write a program to encrypt the valuable Fallout 5 files and protect them from Crsn. Write a function called `changeChar`, which will take in three parameters. The first parameter will pass in line of text. The second parameter will pass in an exsisting letter within the line of text to be replaced. The third parameter will pass in a letter to replace it. `changeChar` replaces all instances of a given letter with another letter in a line of text recursively.
 
 ## Parameters
 
-`lineOfText` - the line of text which you want to have letters replace in 
+`lineOfText` - the line of text which need certain letters to replace.
 
-`charA` - the character you want to be replaced
+`charA` - the character you want to be replaced.
 
-`charB` - the character you want `charA` to be replaced with
+`charB` - the character you want `charA` to be replaced with.
 
 ## Return Value
 
-Your function sould return a single string, `lineOfText` with all instances of `charA` replaced with `charB`
+The function returns a single string, `lineOfText` with all instances of `charA` replaced with `charB`
 
 ## Example function call
 
-`changeChar('Irene is the coolest teacher ever', 'e', 'o')` will return  `"Irono is tho coolost toachor ovor"`
+`changeChar('The Jr DevLeague Academy is awesome!', 'e', 'o')` will return  `"Tho Jr DovLoaguo Acadomy is awosomo"`
 
 ## Important Hints
 
 - Strings have indices too, not just lists
-- You can slice both strings and lists, and a quick way of slicing to either end of a list/string is only having the colon:
-  - If you want to slice to the end of the list, instead of [5:len(list)] you can use [5:]
-  - If you want to slice to the beginning of the list, instead of [0:5] you can use [:5]
+- You can slice both strings and lists at the beginning or end.
