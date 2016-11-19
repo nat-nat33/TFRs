@@ -2,7 +2,7 @@
 
 ###The Problem
 
-Wyatt, JD, Lindsay, Micah, and their friend Bob go on a camping trip. Along the way Bob gets attacked by a bear! The group realizes they brought the wrong map and are in a dangerous territory filled with wild bears. They must empty their bags of useless items as quickly as possible in order to escape and survive.
+Wyatt, JD, Lindsay, Micah, and their friend Bob go on a camping trip. Along the way Bob gets attacked by a bear! The group realizes they brought the wrong map and are in a dangerous territory filled with wild bears. They must empty their bags of useless items as quickly as possible in order to escape and survive!
 
 ###Your Mission
 
