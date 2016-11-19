@@ -15,7 +15,7 @@ Create a web app, which includes the following three files:
 
 2. The `app.js` file must include a variable, `myBag`, which is an array containing several items. Some items good for camping, others not so much.
 
-3. When the button is clicked, a function, `campingAccident` will be invoked. `campingAccident` must access the items in `myBag`. Then use the **getElementById** and **innerHTML** DOM methods to display the items from `myBag` on the page.
+3. When the button is clicked, a function, `campingAccident` will be invoked. `campingAccident` must access the items in `myBag` and use the **getElementById** and **innerHTML** DOM methods to display the items on the page.
 
 4. The `styles.css` file should include some basic CSS to color the background and style the text.
 
