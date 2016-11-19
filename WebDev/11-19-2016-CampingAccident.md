@@ -11,11 +11,11 @@ Create a web app, which includes the following three files:
  + `styles.css`
  + `app.js`
 
-1. The `index.html` file must contain one photo of a camp site, a clickable `button`, and an initally empty `div` with an `id`.
+1. The `index.html` file must contain one photo of a camp site, a clickable `button`, and an empty `div` with an `id`.
 
 2. The `app.js` file must include a variable, `myBag`, which is an array containing several items. Some items good for camping, others not so much.
 
-3. When the button is clicked, a function, `campingAccident` will be invoked. `campingAccident` must access the items in `myBag` and use the **getElementById** and **innerHTML** DOM methods to display the items on the page.
+3. When the button is clicked, a function `campingAccident` will be invoked. `campingAccident` must access the items in `myBag` and use the **getElementById** and **innerHTML** DOM methods to display the items on the page.
 
 4. The `styles.css` file should include some basic CSS to color the background and style the text.
 
